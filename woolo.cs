@@ -1,4 +1,4 @@
-﻿namespace GitiHarjutusV1
+﻿namespace GitiHarjutusV1ooo
 {
     internal class Program
     {
@@ -6,7 +6,9 @@
         {
             Console.WriteLine("Hello, World!");
 
-            
+            Console.WriteLine("sitaridaaa");
+
+            //woolomoolo
         }
     }
 }
